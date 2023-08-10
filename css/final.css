@@ -109,13 +109,10 @@ h2 {
 
 button:hover {
     transition: width 2s;
-    background-color: #2196F3;
     transition-timing-function: linear;
     border-bottom: 1px black solid;
-    border-radius: 8px;
-    box-shadow: 2px 2px 2px 2px rgba(30, 204, 247, 0.651);
+    box-shadow: 0 2px rgba(30, 204, 247, 0.651);
     transition: all;
-    zoom: 110%;
 }
 
 .end {

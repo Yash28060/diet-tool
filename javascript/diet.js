@@ -3,37 +3,37 @@ let a = {
         ['breakfast', 'bread sandwich ', '2 egg', '1 glass milk', '4 almonds ', ' 2 walnuts', 'oaths'],
         ['lunch', '1 cup arhar dal', '1 cup potato curry ', '3 chapatti ', '1/2 cup rice ', '1/2 cup low fat curd + salad', ' salad'],
         ['dinner', '1 cup beans potato vegetable', '3 chapatti ', 'pickels', 'no water', 'desert', 'salad'],
-        ['exercise', 'Pushups', 'Pullups', 'Squats', 'Lunges', 'bench press', 'Overhead press']
+        ['excercise', 'Pushups', 'Pullups', 'Squats', 'Lunges', 'bench press', 'Overhead press']
     ],
     second: [
         ['breakfast', 'bread sandwich ', '2 egg', '1 glass milk', '4 almonds ', ' 2 walnuts', 'oaths'],
         ['lunch', '1 cup arhar dal', '1 cup potato curry ', '3 chapatti ', 'soy products  ', '1/2 cup low fat curd + salad', ' salad'],
         ['dinner', '1 cup beans potato vegetable', '3 chapatti ', 'pickels', 'no water', 'seafood', 'salad'],
-        ['exercise', 'Pushups', 'Running', 'pull-ups', 'chin-ups', 'benchpress', 'dumbell-curls']
+        ['excercise', 'Pushups', 'Running', 'pull-ups', 'chin-ups', 'benchpress', 'dumbell-curls']
     ],
     third: [
         ['breakfast', 'bread', 'sugar-less milk', 'walnuts', 'oaths', 'almonds', 'biscutis'],
         ['lunch', 'Emphasizes fruits', ' whole grains', '1 cup Minestrone soup', ' Tbsp low fat mayo', 'Sliced tomato and lettuce', 'wheat '],
         ['dinner', 'Grilled vegetable ', 'kabobs with shrimp', 'toasted quinoa salad', 'pine nuts', 'cauliflower', 'rice'],
-        ['exercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
+        ['excercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
     ],
     fourth: [
         ['breakfast', 'bread', 'sugar-less milk', 'walnuts', 'oaths', 'almonds', '-'],
         ['lunch', 'Emphasizes fruits', ' whole grains', '1 cup Minestrone soup', ' Tbsp low fat mayo', 'Sliced tomato and lettuce', 'wheat '],
         ['dinner', 'Grilled vegetable ', 'kabobs with shrimp', 'toasted quinoa salad', 'pine nuts', 'cauliflower', 'rice'],
-        ['exercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
+        ['excercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
     ],
     fifth: [
         ['breakfast', 'bread', 'sugar-less milk', 'walnuts', 'oaths', 'almonds', '-'],
         ['lunch', 'Emphasizes fruits', ' whole grains', '1 cup Minestrone soup', ' Tbsp low fat mayo', 'wheat ', '-'],
         ['dinner', 'Grilled vegetable ', 'kabobs with shrimp', 'toasted quinoa salad', 'pine nuts', 'cauliflower', '-'],
-        ['exercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
+        ['excercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
     ],
     sixth: [
         ['breakfast', 'bread', 'sugar-less milk', 'walnuts', 'oaths', 'almonds', '-'],
         ['lunch', 'Emphasizes fruits', ' whole grains', '1 cup Minestrone soup', ' Tbsp low fat mayo', 'wheat ', '-'],
         ['dinner', 'Grilled vegetable ', 'kabobs with shrimp', 'toasted quinoa salad', 'pine nuts', 'cauliflower', '-'],
-        ['exercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
+        ['excercise', 'morning walk', 'brisk walking', 'cycling', 'recreational swimming', 'dancing', 'yoga']
     ],
 }
 
